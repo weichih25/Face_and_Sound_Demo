@@ -1,7 +1,9 @@
 Face_and_Sound_Demo
 ===================
 
-Max/MSP Sound Workshop - Face and Sound Demo at Songshan Cultural and Creative Park, Taipei, September 9, 2014 
+Max/MSP Sound Workshop - Face and Sound Demo 
+
+at Songshan Cultural and Creative Park, Taipei, September 9, 2014 
 
 Demo Video:https://vimeo.com/106739192
 
